@@ -4,6 +4,16 @@ Word 文档 → 多张手机端图片
 
 一键将 `.docx` 文档转换为竖版多图，适配 **微头条 / 头条号 / 小红书** 发布。
 
+## 效果展示
+
+以下为真实转换效果 (源文档: `demo/万字深度.docx`，共生成 9 张图片)：
+
+| 第 1 页 | 第 2 页 | 最后一页 |
+|---------|---------|----------|
+| <img src="demo/output_images/万字深度_p01.png" width="240"> | <img src="demo/output_images/万字深度_p02.png" width="240"> | <img src="demo/output_images/万字深度_p09.png" width="240"> |
+
+> 源码和生成图片见 [`demo/`](demo/) 目录。
+
 ## 使用方法
 
 ### 1. 安装依赖
